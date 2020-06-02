@@ -7,30 +7,30 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leon-carvalho/Ecoleta?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diego64/teste?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leon-carvalho/Ecoleta">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/diego64/teste">
 
   	
   <a href="https://www.linkedin.com/in/leonardo-dev/">
-    <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/made%20by-leon--carvalho-%2304D361">
+    <img alt="Made by diego64" src="https://img.shields.io/badge/made%20by-leon--carvalho-%2304D361">
   </a>
 	
   
-  <a href="https://github.com/leon-carvalho/Ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leon-carvalho/Ecoleta">
+  <a href="https://github.com/diego64/teste/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/diego64/teste">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/leon-carvalho/Ecoleta/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/leon-carvalho/Ecoleta?style=social">
+   <a href="https://github.com/diego64/teste/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/diego64/teste?style=social">
   </a>
 </p>
 
 
 ## 💻 Sobre o projeto
 
-♻️Ecoleta - é umma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
 As empresas ou entidades poderão se cadastrar na plataforma web enviando:
 - uma imagem do ponto de coleta
@@ -92,12 +92,11 @@ O layout da aplicação está disponível no Figma:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo][expo]
 - [Node.js][nodejs]
+- [TypeScript][typescript]
 - [React][reactjs]
 - [React Native][rn]
-- [TypeScript][typescript]
-
+- [Expo][expo]
 
 ## 🚀 Como rodar este projeto
 
